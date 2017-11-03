@@ -1,0 +1,23 @@
+*{
+	background-color: #F9CBE4;
+	font-family: 'Lato', sans-serif;
+}
+
+.text-thin{
+	font-size: 50px;
+	font-weight: 100;
+}
+
+.text-muted{
+	color: #962462;
+}
+
+.hr-cus{
+	border-color: #42A3C0;
+	border-width: 3px;
+}
+
+.logo-margin{
+	margin-bottom: 15px;
+	margin-top: 15px;
+}
